@@ -1,4 +1,4 @@
-*{background-color: black;}
+body{background-color: black;}
 
 #header{display: flex;
     justify-content: center;
